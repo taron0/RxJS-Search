@@ -1,0 +1,10 @@
+.app {
+    text-align: center;
+    margin-top: 25px;
+}
+
+.input-style {
+    padding-right: 25px;
+    padding-left: 25px;
+    max-width: 500px;
+}
